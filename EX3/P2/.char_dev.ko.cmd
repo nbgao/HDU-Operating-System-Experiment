@@ -1,1 +1,0 @@
-cmd_/home/nbgao/Program/OS_Program/EX3/P2/char_dev.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/nbgao/Program/OS_Program/EX3/P2/char_dev.ko /home/nbgao/Program/OS_Program/EX3/P2/char_dev.o /home/nbgao/Program/OS_Program/EX3/P2/char_dev.mod.o ;  true

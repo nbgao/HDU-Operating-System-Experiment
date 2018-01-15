@@ -1,1 +1,0 @@
-cmd_/home/nbgao/Program/EX2/P2/Program2.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/nbgao/Program/EX2/P2/Program2.ko /home/nbgao/Program/EX2/P2/Program2.o /home/nbgao/Program/EX2/P2/Program2.mod.o ;  true
